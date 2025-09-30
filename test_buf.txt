@@ -1,0 +1,1 @@
+A pointer is a variable that stores the memory address of another variable. It's a core concept in programming languages like C and C++, and it allows you to directly work with memory hello world how are you i want to study data science

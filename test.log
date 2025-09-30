@@ -1,0 +1,5 @@
+ERROR:root:some error has happened
+CRITICAL:root:the software is stopped running
+WARNING:root:there can be empty list here
+WARNING:root:this is my warning messages
+WARNING:root:this is my warning messages
